@@ -30,7 +30,7 @@ This project showcases a dynamic pricing system designed for EV charging station
 
 ### Usage
 
-- API Endpoints:
+API Endpoints:
 - GET /prices/{connectorId}: Retrieves the price for a specific connector ID.
 - POST /startsession: Starts a new charging session.
 - POST /stopsession: Stops a charging session.
